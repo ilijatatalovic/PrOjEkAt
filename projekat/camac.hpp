@@ -1,0 +1,6 @@
+#ifndef CAMAC_HPP_INCLUDED
+#define CAMAC_HPP_INCLUDED
+
+
+
+#endif // CAMAC_HPP_INCLUDED
