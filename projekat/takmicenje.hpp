@@ -3,6 +3,7 @@
 #include "osoblje.hpp"
 #include "tiptakm.hpp"
 #include "tabela.hpp"
+#include "camac.hpp"
 class Takmicenje{
 private:
   Osoblje doktor;
