@@ -4,12 +4,13 @@
 #include "tabela.hpp"
 #include "camac.hpp"
 class Takmicenje{
-private:
-  Osoblje doktor;
-  Tabela ;
+protected:
+  Osoblje o;
+  Tabela t;
   string trka;
+  Camac c;
 public:
-  Takmicenje(string trka){
+  Takmicenje(string t){
     trka=t;
   }
 };
