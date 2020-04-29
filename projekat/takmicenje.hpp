@@ -10,7 +10,7 @@ protected:
   string trka;
   Camac c;
 public:
-  Takmicenje(string t){
+  Takmicenje(string t,string i, string p, int g,int brP, double vr,string disc, int br):o(i,p,g),t(brP,vr),c(disc, br){
     trka=t;
   }
 };
