@@ -5,7 +5,7 @@ class Zvuk{
 private:
 bool zvuk;
 public:
-Zvuk(bool zvuk){
+Zvuk(bool z){
 zvuk=z;
 }
 
