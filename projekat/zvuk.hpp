@@ -13,4 +13,4 @@ zvuk=z;
 
 
 
-#endif ZVUK_HPP_INCLUDED
+#endif // ZVUK_HPP_INCLUDED
