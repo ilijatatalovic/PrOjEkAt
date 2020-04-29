@@ -39,9 +39,7 @@ string ime, prezime;
   public:
     Doktor():Osoblje("50","marko","kra;jevic"), medicina(true){}
     Doktor(int g, string i, string prezime,int med):Osoblje(g,i,p),medicina(med){}
-    Doktor(const Doktor& d):Osoblje(s), medicina(s.medicina){} 
-    Doktor(const Osoblje& o):Osoblje(o), medicina(medi){} 
-  
+
   };
   
   
