@@ -5,7 +5,7 @@ private:
   int velicina;
   string disciplina;
 public
-  Camac(int velicina,string disciplina){
+  Camac(int vel,string disc){
 velicina=vel;
 disciplina=disc;
 }
