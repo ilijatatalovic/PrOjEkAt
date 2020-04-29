@@ -5,7 +5,7 @@ class Kamere{
   private:
   bool slika;
 public: 
-  Kamere(bool slika){
+  Kamere(bool s){
   slika=s;
   
   }
