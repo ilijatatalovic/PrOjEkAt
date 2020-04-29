@@ -7,7 +7,7 @@ private:
   string grad;
   string nivoTakmicenja;
 public:
-  TipTakmicenja(string drzava,string grad,string nivoTakmicenja){
+  TipTakmicenja(string drz,string grd,string nTak){
   drzava=drz;
   grad=grd;  
   nivoTakmicenja=nTak;
