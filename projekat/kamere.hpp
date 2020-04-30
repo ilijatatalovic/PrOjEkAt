@@ -12,15 +12,18 @@ public:
   stanje=sta;
   p=p1;
   }
-void metoda1(){
+void Podesikameru(){
 if(stanje==true)
   cout << "Upaljena kamera." << endl;
  else
    cout << "Ugasena kamera." << endl;
-if(p<4)
-  p=p+1;
-if(daljina<10)
-  p=p-1;
+do{
+p=p+1;
+}while(daljina> 10);
+do{
+p=p-1;
+}while(daljina< 5);
+
 }
 
 };
