@@ -12,23 +12,23 @@ class Takmicar{
   Takmicar(double v, string p, string k, int g,kategorija k1){
     vreme=V;
     prezime=p;
-    klub=k;
+    klub=kl;
     godiste=g;
     k=k1;
   }
   void metoda(){
-  if(g>2016 || g<1980)
+  if(godiste>2016 || godiste<1980)
   {
   cout << "Au sinko pa ti se bodes : /" << endl;
   }
-  if(g>2005)
+  if(godiste>2005)
     k1=1;
-  if(g<2005 && g>2001)
+  if(godiste<2005 && godiste>2001)
     k1=2;
-  if(g<2000 && g>1998)
+  if(godiste<2000 && godiste>1998)
     k1=3;
-  if(g<1997)
-    k4=4;
+  if(godiste<1997)
+    k1=4;
   
   }
 };
