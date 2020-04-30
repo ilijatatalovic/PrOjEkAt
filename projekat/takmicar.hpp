@@ -21,14 +21,22 @@ class Takmicar{
   {
   cout << "Au sinko pa ti se bodes : /" << endl;
   }
-  if(godiste>2005)
-    k1=1;
-  if(godiste<2005 && godiste>2001)
-    k1=2;
-  if(godiste<2000 && godiste>1998)
-    k1=3;
-  if(godiste<1997)
-    k1=4;
+  if(godiste>2005){
+    k=1;
+    cout << "Pionir" << endl;
+  }
+  if(godiste<2005 && godiste>2001){
+    k=2;
+   cout << "Kadeti" << endl; 
+  }
+  if(godiste<2000 && godiste>1998){
+    k=3;
+    cout << "Juniori" << endl;
+  }
+  if(godiste<1997){
+    k=4;
+    cout << "Seniori" << endl;
+  }
   
   }
 };
