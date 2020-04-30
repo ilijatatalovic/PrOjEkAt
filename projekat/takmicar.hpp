@@ -27,15 +27,15 @@ class Takmicar{
   }
   if(godiste<2005 && godiste>2001){
     k=2;
-   cout << "Kadeti" << endl; 
+   cout << "Kadet" << endl; 
   }
   if(godiste<2000 && godiste>1998){
     k=3;
-    cout << "Juniori" << endl;
+    cout << "Junior" << endl;
   }
   if(godiste<1997){
     k=4;
-    cout << "Seniori" << endl;
+    cout << "Senior" << endl;
   }
   
   }
