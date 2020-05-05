@@ -13,6 +13,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    //Predlog funkcionalnosti: Simuliranje trke u veslanju.
     return 0;
 }
