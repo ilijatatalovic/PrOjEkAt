@@ -21,13 +21,9 @@ if(stanje==true)
 do{
 p=p1080;
 }while(daljina> 10);
+
 do{
 p=p360;
-=======
-p=p+1;
-}while(daljina> 10);
-do{
-p=p-1;
 }while(daljina< 5);
 
 }

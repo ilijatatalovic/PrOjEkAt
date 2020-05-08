@@ -36,6 +36,7 @@
 		<Unit filename="kamere.hpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="osoblje.hpp" />
+		<Unit filename="osoblje.txt" />
 		<Unit filename="tabela.hpp" />
 		<Unit filename="takmicar.hpp" />
 		<Unit filename="takmicenje.hpp" />

@@ -9,8 +9,7 @@ public:
 velicina=vel;
 disciplina=disc;
 }
-
-
+  friend ostream& operator<<(ostream& izlaz, const Camac& c);
 };
 
 

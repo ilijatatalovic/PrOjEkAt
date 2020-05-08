@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1588711353 source:c:\users\korisnik\documents\github\projekat\projekat\main.cpp
+1588955912 source:c:\users\korisnik\documents\github\projekat\projekat\main.cpp
 	<iostream>
 	<fstream>
 	"camac.hpp"
@@ -11,21 +11,21 @@
 	"tabela.hpp"
 	"takmicenje.hpp"
 
-1588708277 c:\users\korisnik\documents\github\projekat\projekat\camac.hpp
+1588952235 c:\users\korisnik\documents\github\projekat\projekat\camac.hpp
 
-1588709221 c:\users\korisnik\documents\github\projekat\projekat\kamere.hpp
+1588952562 c:\users\korisnik\documents\github\projekat\projekat\kamere.hpp
 
-1588711474 c:\users\korisnik\documents\github\projekat\projekat\osoblje.hpp
+1588955921 c:\users\korisnik\documents\github\projekat\projekat\osoblje.hpp
 
-1588709901 c:\users\korisnik\documents\github\projekat\projekat\takmicar.hpp
+1588952794 c:\users\korisnik\documents\github\projekat\projekat\takmicar.hpp
 
-1588706983 c:\users\korisnik\documents\github\projekat\projekat\tiptakm.hpp
+1588955149 c:\users\korisnik\documents\github\projekat\projekat\tiptakm.hpp
 
-1588706983 c:\users\korisnik\documents\github\projekat\projekat\zvuk.hpp
+1588952235 c:\users\korisnik\documents\github\projekat\projekat\zvuk.hpp
 
-1588706983 c:\users\korisnik\documents\github\projekat\projekat\tabela.hpp
+1588952235 c:\users\korisnik\documents\github\projekat\projekat\tabela.hpp
 
-1588710021 c:\users\korisnik\documents\github\projekat\projekat\takmicenje.hpp
+1588952235 c:\users\korisnik\documents\github\projekat\projekat\takmicenje.hpp
 	"osoblje.hpp"
 	"tabela.hpp"
 	"camac.hpp"
