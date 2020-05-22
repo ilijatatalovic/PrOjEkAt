@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1589645123 source:c:\users\korisnik\documents\github\projekat\projekat\main.cpp
+1590172208 source:c:\users\korisnik\documents\github\projekat\projekat\main.cpp
 	<iostream>
 	<fstream>
 	"camac.hpp"
@@ -15,7 +15,7 @@
 
 1588952562 c:\users\korisnik\documents\github\projekat\projekat\kamere.hpp
 
-1589644969 c:\users\korisnik\documents\github\projekat\projekat\osoblje.hpp
+1589645401 c:\users\korisnik\documents\github\projekat\projekat\osoblje.hpp
 	<fstream>
 	<vector>
 
